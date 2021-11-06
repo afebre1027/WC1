@@ -41,6 +41,15 @@ body {
 .header div ul li {
   display: inline-block;
   margin-left: 25px;
+
+}
+.header div ul li:hover {
+  background: #0072bb;
+  color: #ffffff;
+  border-radius: 50px;
+  border-width: 20px;
+  text-shadow: none;
+  padding: 8px;
 }
 
 a {
@@ -194,4 +203,5 @@ p {
 
 .footer {
   background-color: #2a607c;
+  color: #ffffff;
 }
