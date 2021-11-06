@@ -8,7 +8,7 @@
 body {
   background-color: #d9dcd6;
 }
-/* changing the header */
+/*the header */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -147,7 +147,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-/*center second section Oline Reputation Management*/
+/*center second section Online Reputation Management*/
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -190,4 +190,8 @@ p {
 
 .footer h2 {
   font-size: 20px;
+}
+
+.footer {
+  background-color: #2a607c;
 }
