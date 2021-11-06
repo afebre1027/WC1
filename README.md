@@ -1,0 +1,1 @@
+(\Users\afebr\OneDrive\Desktop\wc\week1\assets\images)
